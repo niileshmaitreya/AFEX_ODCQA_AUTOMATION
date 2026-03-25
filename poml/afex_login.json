@@ -1,0 +1,9 @@
+{
+  "url": "https://uat-portal.afexcore.com/#/public/login",
+  "dashboard_regex": "https://uat-portal.afexcore.com/#/modules/dashboard",
+  "selectors": {
+    "email_input": "//input[@id='emailControlId']",
+    "password_input": "//input[@id='passwordControlId']",
+    "sign_in_button": "//button[@id='login']/span[text()='Sign In']"
+  }
+}
